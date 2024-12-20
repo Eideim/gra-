@@ -78,7 +78,7 @@ quests = [
     {"name": "Odwiedź Mroczną Dolinę", "reward": 100, "status": False}
 ]
 
-# Funkcje
+
 
 def rozwój_postaci():
     """Funkcja rozwijająca postać przy awansie na wyższy poziom."""
